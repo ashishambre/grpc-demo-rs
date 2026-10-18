@@ -1,0 +1,36 @@
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Maven build outputs
+target/
+**/target/
+
+# Compiled Java files
+*.class
+
+# Logs
+*.log
+logs/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Local environment configuration
+.env
+.env.local
+
+# Java crash reports
+hs_err_pid*
+replay_pid*
+
